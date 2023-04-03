@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  remote_url: string = 'http://localhost:4200/micro-fe.js';
+  remote_url: string = 'https://remote-angular-app-mf.vercel.app/micro-fe.js';
 }
